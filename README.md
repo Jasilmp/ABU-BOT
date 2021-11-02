@@ -1,13 +1,13 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://www.linkpicture.com/q/20210930_221359.jpg"width="200" height="200"/>
+  <img border-radius: 15px src="Abuser.png"width="200" height="200"/>
   <p align="center">
     
     
 <a href="#"><img title="ABU BOT" src="https://img.shields.io/badge/ABU BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href=https://github.com/Jasilmp"><img title="Author" src="https://img.shields.io/badge/Author-(hunk!nd3 p4d4y41!-ABUBOT?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href=https://github.com/Jasilmp"><img title="Author" src="https://img.shields.io/badge/Author-(ABU BOT!-ABUBOT?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
